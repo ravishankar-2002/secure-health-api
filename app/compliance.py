@@ -1,4 +1,4 @@
-.import time, json, os
+import time, json, os
 from flask import g
 
 AUDIT_FILE = 'audit.log'
